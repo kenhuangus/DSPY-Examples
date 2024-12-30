@@ -22,7 +22,7 @@ litellm.drop_params = True
 
 # Configure the local model using Ollama
 print("Configuring local model using Ollama...")
-lm = dspy.LM('ollama_chat/artifish/llama3.2-uncensored:latest', api_base='http://192.168.1.155:11434', api_key='')
+lm = dspy.LM('ollama_chat/artifish/llama3.2-uncensored:latest', api_base='http://127.0.0.0:11434', api_key='')
 dspy.configure(lm=lm)
 print("Model configured successfully.")
 
