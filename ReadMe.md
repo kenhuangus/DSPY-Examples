@@ -1,7 +1,8 @@
 
 # Prompt Injection Testing and Optimization with DSPy
 
-This project demonstrates how to use the DSPy (Declarative Self-Programming) framework to test and optimize the robustness of language models (LLMs) against prompt injection attacks.
+[This project](https://github.com/kenhuangus/DSPY-Examples/blob/main/prompt-injection.py)
+ demonstrates how to use the DSPy (Declarative Self-Programming) framework to test and optimize the robustness of language models (LLMs) against prompt injection attacks.
 
 ## Overview
 
